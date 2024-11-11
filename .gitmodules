@@ -1,0 +1,4 @@
+[submodule "ticket-bus-app/FlutterAppBus"]
+	path = ticket-bus-app/FlutterAppBus
+	url = https://github.com/Lucasx10/FlutterAppBus.git
+	branch = master
